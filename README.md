@@ -1,2 +1,32 @@
-# ♻️ Data-Structures_Lab
- 👋🏼"Data-Structures_Lab" is your GitHub destination for hands-on exploration of fundamental data structures. Dive into concise implementations and practical exercises to master arrays, linked lists, trees, graphs, and more, fostering skill development and programming confidence.
+# ♻️ Data_Structures_With_Java
+
+> 👋🏼 Welcome to **Data-Structures_Lab** – your GitHub destination for hands-on exploration of core **Data Structures in Java**.
+
+This repository is crafted to provide **concise implementations**, **practical coding exercises**, and a **solid foundation** in algorithmic thinking. Whether you're a student, enthusiast, or job-prep warrior, this lab will help you master data structures and boost your programming confidence.
+
+---
+
+## 📚 What You'll Learn
+
+✅ Arrays and Strings  
+✅ Linked Lists (Singly, Doubly, Circular)  
+✅ Stacks and Queues  
+✅ Trees (Binary, BST, AVL)  
+✅ Graphs (Adjacency List, Matrix, BFS, DFS)  
+✅ Hashing  
+✅ Recursion & Backtracking  
+✅ Sorting & Searching  
+✅ Real-World Practice Problems  
+
+---
+
+## 🛠️ Technologies Used
+
+- **Language**: Java (JDK 8+)
+- **IDE**: IntelliJ IDEA / Eclipse / VS Code
+- **Build Tools**: None required (pure Java)
+
+---
+
+## 📁 Project Structure
+
