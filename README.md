@@ -1,6 +1,6 @@
 # ♻️ Data_Structures_With_Java
 
-> 👋🏼 Welcome to **Data-Structures_Lab** – your GitHub destination for hands-on exploration of core **Data Structures in Java**.
+> 👋🏼 Welcome to **Data_Structures_With_Java** – your GitHub destination for hands-on exploration of core **Data Structures in Java**.
 
 This repository is crafted to provide **concise implementations**, **practical coding exercises**, and a **solid foundation** in algorithmic thinking. Whether you're a student, enthusiast, or job-prep warrior, this lab will help you master data structures and boost your programming confidence.
 
