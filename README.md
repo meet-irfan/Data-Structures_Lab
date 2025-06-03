@@ -28,5 +28,4 @@ This repository is crafted to provide **concise implementations**, **practical c
 
 ---
 
-## 📁 Project Structure
 
